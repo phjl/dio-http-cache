@@ -16,7 +16,3 @@ doc/api/
 *.iml
 pubspec.lock
 .DS_Store
-.history/pubspec_20210412184005.yaml
-.history/pubspec_20210412184240.yaml
-example/.flutter-plugins-dependencies
-example/ios/Flutter/flutter_export_environment.sh
